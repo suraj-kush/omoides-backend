@@ -1,1 +1,5 @@
-- [ ] this
+- [ ] After deleting post fill the page with a post
+- [ ] Remove Pagination component during search
+- [ ] Add porper loading animation
+- [ ] Make comment dynamic similar to likes
+- [ ] Add functional pagination for search
